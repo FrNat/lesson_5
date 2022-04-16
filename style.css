@@ -1,7 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 header {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 400px;
-    background-color: #d0d1d3;
+    background-color: url(https://media.istockphoto.com/photos/the-women-fingers-frame-in-turkey-picture-id629321362?s=612x612) bottom no-repeat;
+    background-size: cover;
 }
