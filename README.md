@@ -8,4 +8,4 @@
 * JavaScript (jQuery, Popper)
 * Web-fonts (Roboto)
 ## Запустить страницу
-Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
+https://frnat.github.io/lesson_5/
