@@ -9,4 +9,4 @@
 * Web-fonts (Roboto)
 
 
-## [![Открыть](https://frnat.github.io/lesson_5/)]
+## [Открыть(https://frnat.github.io/lesson_5/)](https://github.com/FrNat/lesson_5.git)
