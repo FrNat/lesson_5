@@ -7,6 +7,6 @@
 * CSS (Bootstrap)
 * JavaScript (jQuery, Popper)
 * Web-fonts (Roboto)
-## Запустить страницу
 
-![Open](https://frnat.github.io/lesson_5/)
+
+## [! [Button](https://frnat.github.io/lesson_5/)]
