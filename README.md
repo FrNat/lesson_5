@@ -8,4 +8,5 @@
 * JavaScript (jQuery, Popper)
 * Web-fonts (Roboto)
 ## Запустить страницу
-https://frnat.github.io/lesson_5/
+
+![Open](https://frnat.github.io/lesson_5/)
